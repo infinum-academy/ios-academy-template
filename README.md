@@ -1,1 +1,1 @@
-# ios-academy-template
+# Infinum Academy - iOS course
